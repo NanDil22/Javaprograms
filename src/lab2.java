@@ -10,6 +10,7 @@ public class lab2 {
         String last = "Setty";
         String D = first+last;
         System.out.println(D);
+        //Use of Strings
 
     }
 }

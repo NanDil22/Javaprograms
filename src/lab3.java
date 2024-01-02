@@ -21,6 +21,7 @@ public class lab3 {
         double mod=var6%var7;
         System.out.println("Modulus of 2 numbers is ");
         System.out.println(mod);
+        //Use of all data types
 
     }
 }

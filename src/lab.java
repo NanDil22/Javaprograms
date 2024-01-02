@@ -6,6 +6,7 @@ public class lab {
 
         int age = 20;
         System.out.println(age);
+        // Use of print function
 
     }
 
