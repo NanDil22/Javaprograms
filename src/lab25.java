@@ -12,5 +12,6 @@ public class lab25 {
         }
         System.out.println(i + "Its an Odd Number");
     }
+    //Even and odd numbers
 
 }
